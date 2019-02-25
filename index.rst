@@ -5,7 +5,15 @@ DORIS user guide
 **version 0.0.12**
 
 
+
+**DORIS** is an interactive object detection and tracking software based on OpenCV.
+
+
+DORIS is a free and open-source software available for GNU/Linux, Windows and Mac OS.
+
+
 DORIS web site: `https://github.com/olivierfriard/DORIS <https://github.com/olivierfriard/DORIS>`_
+
 
 Legal
 ============================================================================================================================================
