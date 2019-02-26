@@ -70,6 +70,13 @@ and tracked.
 The arena can be defined as a rectangle, a circle or a polygon.
 
 
+Objects size
+----------------------------------
+
+Minimum size: object with size lower than the minimum size will not be detected
+
+Maximum size: object with size greater than the mazimum size will not be detected
+
 
 
 
