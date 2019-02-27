@@ -159,10 +159,10 @@ This matches with the 3 ants we want to track:
    :width: 100%
 
 
-Origin definition
+Origin definition (not mandatory)
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-The origin of the referential system can be defined.
+The origin of the referential system of coordinates can be defined.
 
 **Define origin** button > **Origin from a point**
 
@@ -174,7 +174,23 @@ You will have to select the origin point on the video frame.
    :alt: Origin of referential system
    :width: 80%
 
+If an origin  is defined the coordinates of the tracked objects will refer to this origin.
+Otherwise the origin is set in the upper-left corner of the frame.
 
+
+Scale definition (not mandatory)
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+A scale can be defined
+
+**Define scale** button
+
+You will have to define a segment (by clicking 2 points on the video frame) matching a reference of known size.
+
+
+.. image:: images/scale_definition.png
+   :alt: Scale definition
+   :width: 80%
 
 
 
