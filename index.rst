@@ -174,7 +174,7 @@ Otherwise if you want to track fewer objects click the **Select objects to track
 
 .. image:: images/selection_objects_to_track.png
    :alt: objects selection
-   :width: 100%
+   :width: 60%
 
 
 Origin definition (not mandatory)
