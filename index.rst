@@ -295,7 +295,7 @@ The presence density can be plotted:
    :width: 80%
 
 
-The total distances can be exported in a TSV file with the **Distances** button:
+The total distances for every tracked objects can be exported in a TSV file with the **Distances** button:
 
 .. image:: images/distances.png
    :alt: Distances
@@ -313,7 +313,7 @@ Presence in areas
    :width: 100%
 
 
-* The time in areas can be exported with the **Time in areas** button:
+* The time in areas for every tracked objects can be exported with the **Time in areas** button:
 
 
 .. image:: images/time_in_areas.png
