@@ -227,6 +227,17 @@ Check the **Record coordinates** checkbox
    :width: 40%
 
 
+Record presence of of tracked objects in areas
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Select the **Objects in areas** tab and check the **Record presence of objects in areas** checkbox
+
+You will have to define all the areas (rectangle, circle or polygon) using the **Add area** button.
+
+
+.. image:: images/area_1.png
+   :alt: area center
+   :width: 80%
 
 
 Run tracking
@@ -273,6 +284,8 @@ The total distances can be exported in a TSV file with the **Distances** button:
    :alt: Distances
    :width: 30%
 
+
+The tracking can be run only on a frame interval with the **Run trackin on frames interval** button.
 
 
 The tracking can be hidden to speed up the process: uncheck the **Display analysis** checkbox.
