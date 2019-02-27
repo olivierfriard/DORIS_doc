@@ -117,7 +117,7 @@ Click on the video to define 3 points. The circular arena will pass through thes
 
 .. image:: images/arena_definition.png
    :alt: Blur and Invert filters
-   :width: 50%
+   :width: 100%
 
 The arena can be defined with a rectangle, a circle (using center - radius) or a polygon.
 
