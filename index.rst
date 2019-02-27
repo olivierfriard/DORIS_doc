@@ -159,6 +159,24 @@ This matches with the 3 ants we want to track:
    :width: 100%
 
 
+Selection of objects to track
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+If you want to track all the filtered object click the **Track all filtered objects** button.
+Otherwise if you want to track fewer objects click the **Select objects to track** button, then select the object number to track:
+
+
+.. image:: images/selection_objetcs_to_track2.png
+   :alt: objects selection
+   :width: 100%
+
+
+
+.. image:: images/selection_objetcs_to_track.png
+   :alt: objects selection
+   :width: 100%
+
+
 Origin definition (not mandatory)
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -198,7 +216,8 @@ In this example the block has a length of 20 mm.
 If a scale is defined the coordinates will be defined applying the scale. In this example in millimeters.
 
 
-
+Record coordinates of tracked objects
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
