@@ -267,11 +267,11 @@ The presence density can be plotted:
    :width: 80%
 
 
-The total distances can be exported in a TSV file with the **Distances** button
+The total distances can be exported in a TSV file with the **Distances** button:
 
 .. image:: images/distances.png
    :alt: Distances
-   :width: 40%
+   :width: 30%
 
 
 
