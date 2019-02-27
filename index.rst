@@ -151,12 +151,42 @@ By setting the minimum object size to 100 px the number of detected objects decr
    :width: 40%
 
 
-This matches with the 3 ants we want to track.
+This matches with the 3 ants we want to track:
 
 
 .. image:: images/3ants.png
    :alt: 3 ants
    :width: 100%
+
+
+Origin definition
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+The origin of the referential system can be defined.
+
+**Define origin** button > **Origin from a point**
+
+
+You will have to select the origin point on the video frame.
+
+
+.. image:: images/origin_definition.png
+   :alt: Origin of referential system
+   :width: 100%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
