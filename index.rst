@@ -193,6 +193,9 @@ You will have to define a segment (by clicking 2 points on the video frame) matc
    :width: 80%
 
 
+In this example the block has a length of 20 mm.
+
+If a scale is defined the coordinates will be defined applying the scale. In this example in millimeters.
 
 
 
