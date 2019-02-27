@@ -127,7 +127,7 @@ Objects size
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-The object detection can be limited to objects belonging to a size interval (area).
+The object detection can be limited to objects included in a size interval (area).
 
 Some detected objects are very small:
 
@@ -135,6 +135,13 @@ Some detected objects are very small:
 .. image:: images/filtered_objects15.png
    :alt: Filtered objects
    :width: 40%
+
+By setting the minimum object size to 100 px the number of detected objects decreases to 3.
+
+.. image:: images/objects_size.png
+   :alt: Oobjects size
+   :width: 40%
+
 
 
 
