@@ -260,6 +260,21 @@ The coordinates can be plotted:
    :width: 80%
 
 
+The presence density can be plotted:
+
+.. image:: images/plot_density.png
+   :alt: Plot path
+   :width: 80%
+
+
+The total distances can be exported in a TSV file with the **Distances** button
+
+.. image:: images/distances.png
+   :alt: Distances
+   :width: 80%
+
+
+
 The tracking can be hidden to speed up the process: uncheck the **Display analysis** checkbox.
 
 
