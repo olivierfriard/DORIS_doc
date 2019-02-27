@@ -89,6 +89,7 @@ The dark objects (like ants) are now displayed in white on the **Processed frame
 
 The **Filtered objects** list and the **Original frame** window display all the 60 filtered objects:
 
+
 .. image:: images/filtered_objects60.png
    :alt: Filtered objects
    :width: 40%
@@ -121,6 +122,19 @@ Click on the video to define 3 points. The circular arena will pass through thes
 
 The arena can be defined with a rectangle, a circle (using center - radius) or a polygon.
 
+
+Objects size
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+The object detection can be limited to objects belonging to a size interval (area).
+
+Some detected objects are very small:
+
+
+.. image:: images/filtered_objects15.png
+   :alt: Filtered objects
+   :width: 40%
 
 
 
