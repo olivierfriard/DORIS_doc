@@ -71,7 +71,7 @@ and the light objects in black:
 
 .. image:: images/blur_invert.png
    :alt: Blur and Invert filters
-   :width: 100%
+   :width: 50%
 
 
 
