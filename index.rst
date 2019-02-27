@@ -313,6 +313,12 @@ Presence in areas
    :width: 100%
 
 
+* The time in areas can be exported with the **Time in areas** button:
+
+
+.. image:: images/time_in_areas.png
+   :alt: Time in areas
+   :width: 100%
 
 
 
