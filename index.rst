@@ -219,8 +219,26 @@ If a scale is defined the coordinates will be defined applying the scale. In thi
 Record coordinates of tracked objects
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+Check the **Record coordinates** checkbox
 
 
+.. image:: images/record_coordinates.png
+   :alt: record coordinates
+   :width: 80%
+
+
+
+
+Run tracking
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Click the **Run tracking** button
+
+The tracking process will start.
+The tracked objects will be displayed on the **Original frame** window.
+
+The tracking can be hidden to speed up the process: uncheck the **Display analysis** checkbox.
 
 
 
