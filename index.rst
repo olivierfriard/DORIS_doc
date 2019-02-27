@@ -271,7 +271,7 @@ The total distances can be exported in a TSV file with the **Distances** button
 
 .. image:: images/distances.png
    :alt: Distances
-   :width: 80%
+   :width: 40%
 
 
 
