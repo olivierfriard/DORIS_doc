@@ -75,7 +75,7 @@ and the light objects in black:
 
 .. image:: images/blur_invert.png
    :alt: Blur and Invert filters
-   :width: 30%
+   :width: 40%
 
 
 
@@ -99,7 +99,7 @@ The value of the **Blur** filter can be increased in order to simplify the objec
 
 .. image:: images/blur5_invert.png
    :alt: Blur and Invert filters
-   :width: 30%
+   :width: 40%
 
 Applying a value of 5 to the Blur filter decrease the number of filtered objects to 25.
 
