@@ -97,7 +97,11 @@ The value of the **Blur** filter can be increased in order to simplify the objec
    :alt: Blur and Invert filters
    :width: 50%
 
-Applying this filter the number of filtered objects decrease to 25.
+Applying a value of 5 to the Blur filter decrease the number of filtered objects to 25.
+
+
+
+
 
 
 
