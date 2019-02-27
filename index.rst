@@ -15,7 +15,21 @@ DORIS is a free and open-source software available for GNU/Linux, Windows and Ma
 **version 0.0.12** **This is an ALPHA release. Use it for testing and report bugs and suggestion**
 
 
-DORIS web site: `https://github.com/olivierfriard/DORIS <https://github.com/olivierfriard/DORIS>`_
+DORIS web page: `http://www.boris.unito.it/pages/doris <http://www.boris.unito.it/pages/doris>`_
+
+
+
+
+.. image:: images/doris_project.png
+   :alt: DORIS
+   :width: 100%
+
+
+
+
+
+
+
 
 
 Legal
@@ -31,6 +45,8 @@ the Free Software Foundation; either version 2, or any later version.
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 `GNU General Public License <http://www.gnu.org/copyleft/gpl.html>`_ for more details.
+
+
 
 
 
