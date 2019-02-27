@@ -37,6 +37,9 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 How to run a tracking project with DORIS step by step
 ============================================================================================================================================
 
+In order to demonstrate the use of BORIS we will set a tracking project.
+This tracking project aims to track **3 ants** during 1 minute trying to **maintain individuality**.
+
 
 After launching DORIS you should see the main window.
 
@@ -143,8 +146,17 @@ By setting the minimum object size to 100 px the number of detected objects decr
    :width: 40%
 
 
+.. image:: images/filtered_objects3.png
+   :alt: Filtered objects
+   :width: 40%
 
 
+This matches with the 3 ants we want to track.
+
+
+.. image:: images/3ants.png
+   :alt: 3 ants
+   :width: 100%
 
 
 
