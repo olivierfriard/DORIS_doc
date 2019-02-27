@@ -318,7 +318,7 @@ Presence in areas
 
 .. image:: images/time_in_areas.png
    :alt: Time in areas
-   :width: 100%
+   :width: 60%
 
 
 
