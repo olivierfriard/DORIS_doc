@@ -108,7 +108,7 @@ Arena definition
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-An arena can be defined in order to limit the object tracking to the object detected inside the arena.
+An arena can be defined in order to limit the objects tracking to the objects detected inside the arena.
 
 **Define arena** button > **Circle arena (3 points)**
 
@@ -118,6 +118,8 @@ Click on the video to define 3 points. The circular arena will pass through thes
 .. image:: images/arena_definition.png
    :alt: Blur and Invert filters
    :width: 50%
+
+The arena can be defined with a rectangle, a circle (using center - radius) or a polygon.
 
 
 
