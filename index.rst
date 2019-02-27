@@ -242,7 +242,6 @@ In this example 5 areas were defined:
 
 
 
-
 Run tracking
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -250,8 +249,23 @@ Run tracking
 Click the **Run tracking** button
 
 The tracking process will start.
-The tracked objects will be displayed on the **Original frame** window
-and the coordinates of tracked objects in the **Objects position** list.
+The tracked objects will be displayed on the **Original frame** window.
+
+
+The coordinates of tracked objects are displayed in the **Objects position** list.
+
+The presence of tracked objects in the defined areas are displayed in the **Presence of objects in areas** list.
+
+
+The tracking can be run only on a frame interval with the **Run trackin on frames interval** button.
+
+
+The tracking can be hidden to speed up the process: uncheck the **Display analysis** checkbox.
+
+
+
+Coordinates
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 
 .. image:: images/coordinates.png
@@ -288,10 +302,19 @@ The total distances can be exported in a TSV file with the **Distances** button:
    :width: 30%
 
 
-The tracking can be run only on a frame interval with the **Run trackin on frames interval** button.
+Presence in areas
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 
-The tracking can be hidden to speed up the process: uncheck the **Display analysis** checkbox.
+The presence of objects in areas can be exported with the **Save results** button.
+
+.. image:: images/results_areas.png
+   :alt: Areas
+   :width: 50%
+
+
+
+
 
 
 
