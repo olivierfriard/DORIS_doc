@@ -236,11 +236,16 @@ Run tracking
 Click the **Run tracking** button
 
 The tracking process will start.
-The tracked objects will be displayed on the **Original frame** window.
+The tracked objects will be displayed on the **Original frame** window
+and the coordinates of tracked objects in the **Objects position** list.
+
+
+.. image:: images/coordinates.png
+   :alt: Coordinates
+   :width: 40%
+
 
 The tracking can be hidden to speed up the process: uncheck the **Display analysis** checkbox.
-
-
 
 
 
