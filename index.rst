@@ -234,12 +234,13 @@ Select the **Objects in areas** tab and check the **Record presence of objects i
 
 You will have to define all the areas (rectangle, circle or polygon) using the **Add area** button.
 
+In this example 5 areas were defined:
 
 .. image:: images/4areas.png
    :alt: area center
    :width: 100%
 
-5 areas were defined.
+
 
 
 Run tracking
