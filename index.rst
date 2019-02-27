@@ -67,12 +67,24 @@ and eventually conversion to negative.
 DORIS will detect the white objects in the **Processed frame** window.
 
 In this case you will have to check the **Invert checkbox** to convert to negative. The dark objects will be displayed in white
-and the light objects in black.
+and the light objects in black:
+
+.. image:: images/blur_invert.png
+   :alt: Blur and Invert filters
+   :width: 100%
+
 
 
 .. image:: images/video_loaded_invert.png
    :alt: DORIS main window
    :width: 100%
+
+
+
+The dark objects (like ants) are now displayed in white on the **Processed frame** window.
+
+
+The value of the **Blur** filter can be increased in order to simplify the objects.
 
 
 
