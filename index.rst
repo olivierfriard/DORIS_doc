@@ -242,7 +242,7 @@ and the coordinates of tracked objects in the **Objects position** list.
 
 .. image:: images/coordinates.png
    :alt: Coordinates
-   :width: 40%
+   :width: 80%
 
 
 The tracking can be hidden to speed up the process: uncheck the **Display analysis** checkbox.
