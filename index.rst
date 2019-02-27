@@ -306,7 +306,7 @@ Presence in areas
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-The presence of objects in areas can be exported with the **Save results** button.
+* The presence of objects in areas can be exported with the **Save results** button.
 
 .. image:: images/results_areas.png
    :alt: Areas
