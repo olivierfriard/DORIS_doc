@@ -51,7 +51,8 @@ Open a video
 
 **File** > **Open a video**
 
-The video will be loaded and the first frame will be displayed.
+The video will be loaded and the first frame will be displayed in the **Original frame** window (left window).
+Another window called **Processed frame** will also be displayed (right window).
 
 
 .. image:: images/video_loaded.png
