@@ -172,7 +172,7 @@ You will have to select the origin point on the video frame.
 
 .. image:: images/origin_definition.png
    :alt: Origin of referential system
-   :width: 100%
+   :width: 80%
 
 
 
