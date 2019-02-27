@@ -166,13 +166,13 @@ If you want to track all the filtered object click the **Track all filtered obje
 Otherwise if you want to track fewer objects click the **Select objects to track** button, then select the object number to track:
 
 
-.. image:: images/selection_objetcs_to_track2.png
+.. image:: images/selection_objects_to_track2.png
    :alt: objects selection
    :width: 100%
 
 
 
-.. image:: images/selection_objetcs_to_track.png
+.. image:: images/selection_objects_to_track.png
    :alt: objects selection
    :width: 100%
 
