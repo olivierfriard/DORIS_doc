@@ -60,6 +60,10 @@ Another window called **Processed frame** will also be displayed (right window).
    :width: 100%
 
 
+Frame processing
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
 The **Processed frame** window displays the frame after conversion to binary image (b/w), application of a blur filter
 and eventually conversion to negative.
 
@@ -99,6 +103,21 @@ The value of the **Blur** filter can be increased in order to simplify the objec
 
 Applying a value of 5 to the Blur filter decrease the number of filtered objects to 25.
 
+
+Arena definition
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+An arena can be defined in order to limit the object tracking to the object detected inside the arena.
+
+**Define arena** button > **Circle arena (3 points)**
+
+Click on the video to define 3 points. The circular arena will pass through these 3 points.
+
+
+.. image:: images/arena_definition.png
+   :alt: Blur and Invert filters
+   :width: 50%
 
 
 
