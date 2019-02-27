@@ -56,8 +56,9 @@ Another window called **Processed frame** will also be displayed (right window).
 
 
 .. image:: images/video_loaded.png
-   :alt: DORIS main window
+   :alt: video loaded
    :width: 100%
+
 
 The **Processed frame** window displays the frame after conversion to binary image (b/w), application of a blur filter
 and eventually conversion to negative.
@@ -67,6 +68,15 @@ DORIS will detect the white objects in the **Processed frame** window.
 
 In this case you will have to check the **Invert checkbox** to convert to negative. The dark objects will be displayed in white
 and the light objects in black.
+
+
+.. image:: images/video_loaded_invert.png
+   :alt: DORIS main window
+   :width: 100%
+
+
+
+
 
 
 
