@@ -82,7 +82,8 @@ and the light objects in black:
 
 
 The dark objects (like ants) are now displayed in white on the **Processed frame** window.
-The filtered objects list displays all the 60 filtered objects.
+
+The **Filtered objects** list and the **Original frame** window display all the 60 filtered objects:
 
 .. image:: images/filtered_objects60.png
    :alt: Filtered objects
