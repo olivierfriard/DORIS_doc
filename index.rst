@@ -237,7 +237,7 @@ You will have to define all the areas (rectangle, circle or polygon) using the *
 
 .. image:: images/4areas.png
    :alt: area center
-   :width: 70%
+   :width: 100%
 
 5 areas were defined.
 
