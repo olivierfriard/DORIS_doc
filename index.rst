@@ -244,6 +244,15 @@ and the coordinates of tracked objects in the **Objects position** list.
    :alt: Coordinates
    :width: 80%
 
+This 3rd column will contain the frame number and the following columns the x,y coordinates of the various tracked objects.
+
+The coordinates can be saved in a TSV file with the **Save objects positions** button.
+
+The coordinates can be plotted:
+
+* **Plot path** button.
+
+* **Plot position** button.
 
 The tracking can be hidden to speed up the process: uncheck the **Display analysis** checkbox.
 
