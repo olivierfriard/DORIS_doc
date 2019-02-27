@@ -254,6 +254,12 @@ The coordinates can be plotted:
 
 * **Plot position** button.
 
+
+.. image:: images/plot_path.png
+   :alt: Plot path
+   :width: 80%
+
+
 The tracking can be hidden to speed up the process: uncheck the **Display analysis** checkbox.
 
 
