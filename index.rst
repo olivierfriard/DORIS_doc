@@ -224,7 +224,7 @@ Check the **Record coordinates** checkbox
 
 .. image:: images/record_coordinates.png
    :alt: record coordinates
-   :width: 80%
+   :width: 40%
 
 
 
