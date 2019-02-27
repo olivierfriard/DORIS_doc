@@ -310,7 +310,7 @@ The presence of objects in areas can be exported with the **Save results** butto
 
 .. image:: images/results_areas.png
    :alt: Areas
-   :width: 50%
+   :width: 100%
 
 
 
