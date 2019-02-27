@@ -227,7 +227,7 @@ Check the **Record coordinates** checkbox
    :width: 40%
 
 
-Record presence of of tracked objects in areas
+Record presence of the tracked objects in areas
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 Select the **Objects in areas** tab and check the **Record presence of objects in areas** checkbox
@@ -235,9 +235,11 @@ Select the **Objects in areas** tab and check the **Record presence of objects i
 You will have to define all the areas (rectangle, circle or polygon) using the **Add area** button.
 
 
-.. image:: images/area_1.png
+.. image:: images/4areas.png
    :alt: area center
    :width: 80%
+
+5 areas were defined.
 
 
 Run tracking
