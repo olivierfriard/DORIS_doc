@@ -86,7 +86,7 @@ The filtered objects list displays all the 60 filtered objects.
 
 .. image:: images/filtered_objects60.png
    :alt: Filtered objects
-   :width: 50%
+   :width: 40%
 
 
 The value of the **Blur** filter can be increased in order to simplify the objects.
