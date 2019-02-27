@@ -2,7 +2,6 @@
 DORIS user guide
 ********************************************************************************************************************************************
 
-**version 0.0.12**
 
 
 
@@ -11,6 +10,9 @@ DORIS user guide
 
 
 DORIS is a free and open-source software available for GNU/Linux, Windows and Mac OS.
+
+
+**version 0.0.12** **This is an ALPHA release. Use it for testing and report bugs and suggestion**
 
 
 DORIS web site: `https://github.com/olivierfriard/DORIS <https://github.com/olivierfriard/DORIS>`_
@@ -31,43 +33,67 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 `GNU General Public License <http://www.gnu.org/copyleft/gpl.html>`_ for more details.
 
 
-Objects detection
-========================================================================================================================
 
-The frames extracted from video or directly available from a directory must
-be treated before objects detection. 
-The frames are converted in binary image (b/w) where the white objects will
-be detected.
-
-Two methods are available:
-
-Simple threshold
-----------------------------
-
-The frame is converted in graycale (from 0 to 255) and a simple threshold is
-applied. All values below the threshold will converted to black and the
-others to white.   
+How to run a tracking project with DORIS step by step
+============================================================================================================================================
 
 
-Adaptive threshold
------------------------------
+After launching DORIS you should see the main window.
 
 
-Invert image
---------------------------------
-
-Option for inverting the binary image when dark objects should be detected.
-
-Blur
-----------------------------------
+.. image:: images/main_window_empty.png
+   :alt: DORIS main window
+   :width: 100%
 
 
-Definition of arena
-----------------------------------
+Open a video
+--------------------------------------------------------------------------------------------------------------------------------------------
 
-If an arena is defined only the objects inside this arena will be detected
-and tracked.
-The arena can be defined as a rectangle, a circle or a polygon.
+File > Open a video
+
+
+
+
+
+
+..
+    Objects detection
+    ========================================================================================================================
+
+    The frames extracted from video or directly available from a directory must
+    be treated before objects detection.
+    The frames are converted in binary image (b/w) where the white objects will
+    be detected.
+
+    Two methods are available:
+
+    Simple threshold
+    ----------------------------
+
+    The frame is converted in graycale (from 0 to 255) and a simple threshold is
+    applied. All values below the threshold will converted to black and the
+    others to white.
+
+
+    Adaptive threshold
+    -----------------------------
+
+
+    Invert image
+    --------------------------------
+
+    Option for inverting the binary image when dark objects should be detected.
+
+    Blur
+    ----------------------------------
+
+
+    Definition of arena
+    ----------------------------------
+
+    If an arena is defined only the objects inside this arena will be detected
+    and tracked.
+    The arena can be defined as a rectangle, a circle or a polygon.
 
 
 
