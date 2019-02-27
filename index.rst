@@ -49,7 +49,14 @@ After launching DORIS you should see the main window.
 Open a video
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-File > Open a video
+**File** > **Open a video**
+
+The video will be loaded and the first frame will be displayed.
+
+
+.. image:: images/video_loaded.png
+   :alt: DORIS main window
+   :width: 100%
 
 
 
