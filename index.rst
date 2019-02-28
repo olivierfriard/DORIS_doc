@@ -87,7 +87,8 @@ Frame processing
 The **Processed frame** window displays the frame after conversion to binary image (b/w), application of a blur filter
 and eventually conversion to negative.
 
-In this example we apply a simple threshlod method (value from 1 to 255). Another threshold methods are available:
+In this example we apply a simple threshold method to convert the grayscale image (value from 1 to 255) to binary (0 or 1).
+Another threshold methods are available:
 **Adaptive thresholding (mean)** and **Adaptive thresholding (Gaussian)**
 
 See the `OpenCV documentation <https://docs.opencv.org/3.4.0/d7/d4d/tutorial_py_thresholding.html>`_ for details.
