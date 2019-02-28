@@ -12,12 +12,12 @@ DORIS user guide
 DORIS is a free and open-source software available for GNU/Linux, Windows and Mac OS.
 
 
-**version 0.0.12** **This is an ALPHA release. Use it for testing and report bugs and suggestion**
+**version 0.0.12** **This is an ALPHA release. Use it for testing and report bugs and suggestions.**
 
 
 DORIS web page: `http://www.boris.unito.it/pages/doris <http://www.boris.unito.it/pages/doris>`_
 
-
+This project was inspired by **Tracktor project**: https://github.com/vivekhsridhar/tracktor
 
 
 .. image:: images/doris_project.png
