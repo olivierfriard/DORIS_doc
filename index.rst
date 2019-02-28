@@ -87,6 +87,11 @@ Frame processing
 The **Processed frame** window displays the frame after conversion to binary image (b/w), application of a blur filter
 and eventually conversion to negative.
 
+In this example we apply a simple threshlod method (value from 1 to 255). Another threshold methods are available:
+**Adaptive thresholding (mean)** and **Adaptive thresholding (Gaussian)**
+
+See the `OpenCV documentation <https://docs.opencv.org/3.4.0/d7/d4d/tutorial_py_thresholding.html>`_ for details.
+
 
 DORIS will detect the white objects in the **Processed frame** window.
 
@@ -106,6 +111,8 @@ and the light objects in black:
 
 
 The dark objects (like ants) are now displayed in white on the **Processed frame** window.
+
+
 
 The **Filtered objects** list and the **Original frame** window display all the 60 filtered objects:
 
