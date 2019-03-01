@@ -229,7 +229,9 @@ You will have to select the origin point on the video frame.
    :alt: Origin of referential system
    :width: 80%
 
-If an origin  is defined the coordinates of the tracked objects will refer to this origin.
+The X axis extends from left to right. The Y axis extends from top to bottom.
+
+If an origin is defined the coordinates of the tracked objects will refer to this origin.
 Otherwise the origin is set in the upper-left corner of the frame.
 
 
@@ -237,7 +239,7 @@ Otherwise the origin is set in the upper-left corner of the frame.
 Scale definition (not mandatory)
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-A scale can be defined
+A scale can be defined in order to obtain values with a real unit (m, cm, mm ...).
 
 **Define scale** button
 
