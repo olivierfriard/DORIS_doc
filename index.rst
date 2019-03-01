@@ -80,6 +80,9 @@ Another window called **Processed frame** will also be displayed (right window).
    :width: 100%
 
 
+A directory of images (from time lapse experiments for example) can also be used for tracking project: **File** > **Load directory of images**
+
+
 Frame processing
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -184,6 +187,12 @@ This matches with the 3 ants we want to track:
 
 
 
+Save project
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+The project can be saved on a file (*.doris) in order to reopen it with al parameters already set.
+**File** > **Save project**
+
 
 
 Selection of objects to track
@@ -204,6 +213,7 @@ Otherwise if you want to track fewer objects click the **Select objects to track
    :width: 60%
 
 
+
 Origin definition (not mandatory)
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -221,6 +231,7 @@ You will have to select the origin point on the video frame.
 
 If an origin  is defined the coordinates of the tracked objects will refer to this origin.
 Otherwise the origin is set in the upper-left corner of the frame.
+
 
 
 Scale definition (not mandatory)
