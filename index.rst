@@ -17,13 +17,13 @@ DORIS is a free and open-source software available for GNU/Linux, Windows and Ma
 
 DORIS web page: `http://www.boris.unito.it/pages/doris <http://www.boris.unito.it/pages/doris>`_
 
-This project was inspired by **Tracktor project**: https://github.com/vivekhsridhar/tracktor
+This project was inspired by the **Tracktor project**: https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13166 https://github.com/vivekhsridhar/tracktor
+
 
 
 .. image:: images/doris_project.png
    :alt: DORIS
    :width: 100%
-
 
 
 
