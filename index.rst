@@ -11,9 +11,9 @@ DORIS user guide
 
 DORIS is a free and open-source software available for GNU/Linux, Windows and Mac OS.
 
-..warning:
+**Version 0.0.17**
 
-    **version 0.0.17. This is an ALPHA release. Use it for testing and report bugs and suggestions.**
+.. important:: **This is an ALPHA release. Use it for testing and report bugs and suggestions.**
 
 
 DORIS web page: `http://www.boris.unito.it/pages/doris <http://www.boris.unito.it/pages/doris>`_
