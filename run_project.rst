@@ -1,7 +1,7 @@
 .. run_project.rst
 
 
-In order to demonstrate the use of BORIS we will set a tracking project.
+In order to demonstrate the use of DORIS we will set a tracking project.
 This tracking project aims to track **3 ants** during 1 minute trying to **maintain individuality**.
 
 A video tutorial is available at `www.youtube.com/watch?v=toSXiqsWRzY <https://www.youtube.com/watch?v=toSXiqsWRzY>`_ (no audio).

@@ -1,7 +1,7 @@
 .. install and launch DORIS
 
 
-Run DORIS from binaries
+The easy way: run DORIS from binaries
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 The executable/binary versions of DORIS can be downloaded from the **Releases section** of the `GitHub repository <https://github.com/olivierfriard/DORIS/releases>`_
@@ -11,13 +11,13 @@ Extract the archive and launch the **doris** executable file
 
 
 
-Run DORIS from sources
+The expert way: run DORIS from sources (for Mac and Linux)
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
 To run DORIS from source you must have a running version of Python => 3.6
 
-Create a virtual environment
+Create a virtual environment and activate it
 .............................................
 
 
@@ -25,18 +25,34 @@ Create a virtual environment
 
     source doris_venv/bin/activate
 
+Install the dependencies
+.............................................
+
+
     pip3 install numpy matplotlib opencv-python-headless pandas pyqt5 scikit-learn scipy sklearn
 
-if git is installed and in the path
+
+Download the DORIS source
+.............................................
+
+
+if git is installed and is present in the path
 
     git clone https://github.com/olivierfriard/DORIS.git
+
+    cd DORIS
 
 if git is not installed
 
     wget https://github.com/olivierfriard/DORIS/archive/master.zip
     unzip master.zip
 
-    cd DORIS/src
+    cd DORIS-master/src
+
+
+Launch DORIS
+.............................................
+
 
     python3 doris.py
 
