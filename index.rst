@@ -20,7 +20,7 @@ This project was inspired by the **Tracktor project**: https://besjournals.onlin
 
 
 .. contents::
-   :depth: 2
+   :depth: 1
 
 
 
