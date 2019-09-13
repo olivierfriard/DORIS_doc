@@ -1,3 +1,4 @@
+.. run_project.rst
 
 
 In order to demonstrate the use of BORIS we will set a tracking project.

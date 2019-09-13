@@ -5,20 +5,22 @@ DORIS user guide
 
 
 
-**DORIS** is an easy-to-use interactive object detection and tracking software.
-**DORIS** has a Graphical User Interface.
+**DORIS is an easy-to-use interactive object detection and tracking software with a Graphical User Interface.
+DORIS is a free and open-source software available for GNU/Linux, Windows and Mac OS.**
 
-
-DORIS is a free and open-source software available for GNU/Linux, Windows and Mac OS.
 
 **version 0.0.17**
 
 .. important:: **This is an ALPHA release. Use it for testing and report bugs and suggestions.**
 
+`http://www.boris.unito.it/pages/doris <http://www.boris.unito.it/pages/doris>`_
 
-DORIS web page: `http://www.boris.unito.it/pages/doris <http://www.boris.unito.it/pages/doris>`_
 
 This project was inspired by the **Tracktor project**: https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13166 https://github.com/vivekhsridhar/tracktor
+
+
+.. contents::
+   :depth: 2
 
 
 
@@ -46,6 +48,11 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 `GNU General Public License <http://www.gnu.org/copyleft/gpl.html>`_ for more details.
 
 
+
+Install DORIS
+============================================================================================================================================
+
+.. include:: install_launch.rst
 
 
 
