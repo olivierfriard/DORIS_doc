@@ -100,12 +100,12 @@ How to run a tracking project with DORIS step by step
     The arena can be defined as a rectangle, a circle or a polygon.
 
 
-Objects size
-----------------------------------
+    Objects size
+    ----------------------------------
 
-Minimum size: object with size lower than the minimum size will not be detected
+    Minimum size: object with size lower than the minimum size will not be detected
 
-Maximum size: object with size greater than the mazimum size will not be detected
+    Maximum size: object with size greater than the mazimum size will not be detected
 
 
 
