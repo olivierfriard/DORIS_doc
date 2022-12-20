@@ -9,7 +9,7 @@ DORIS user guide
 DORIS is a free and open-source software available for GNU/Linux, Windows and Mac OS.**
 
 
-**version 20.3.4**
+**version 2022.12.19**
 
 .. important:: **This is an ALPHA release. Use it for testing and report bugs and suggestions.**
 
@@ -36,7 +36,7 @@ This project was inspired by the **Tracktor project**: https://besjournals.onlin
 Legal
 ============================================================================================================================================
 
-Copyright 2019-2020 Olivier Friard
+Copyright 2019-2022 Olivier Friard
 
 **DORIS** is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

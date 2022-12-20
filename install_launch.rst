@@ -14,9 +14,9 @@ All previous versions of **DORIS** are available in the GitHub repository.
 GNU/Linux
 ------------------------------------------------------------------------------------------------------------------------
 
-DORIS run with Python < 3.8
+DORIS run with Python >= 3.8
 
-* Create a virtual environment (to isolate DORIS from your system):
+* Create a virtual environment (to isolate DORIS and dependencies from your system):
 
 
 .. code-block:: bash
